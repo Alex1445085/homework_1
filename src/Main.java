@@ -7,5 +7,7 @@ public class Main {
                 System.out.print(", ");
             }
         }
+        System.out.println();
+        System.out.println("Приввет и добро пожаловать");
     }
 }
